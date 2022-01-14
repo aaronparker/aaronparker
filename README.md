@@ -1,6 +1,6 @@
 # About me
 
-* End user computing, modern device management, enterprise mobility
+* End user computing, modern device management, enterprise mobility, automation, #PowerShell
 * Sporadic blogger and speaker
 * Citrix User Group Community Melbourne
 * Principal Modern Workplace Architect [@Insentra](https://github.com/Insentra)
